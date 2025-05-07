@@ -1,6 +1,6 @@
 # Como correrlo en CLIPS
 
-## Para cargar los hechos
+## Para cargar los templates, hechos y reglas)
 CLIPS > (batch* "run.clp")
 
 ## Para ver los hechos cargados
