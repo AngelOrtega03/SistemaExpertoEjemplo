@@ -1,3 +1,8 @@
+(deftemplate opcion
+   (slot opcion)
+   (slot menu)
+   (slot hecho-id-eliminar))
+
 (deftemplate smartphone
    (slot smartphone-id (default gensym*))
    (slot marca)
